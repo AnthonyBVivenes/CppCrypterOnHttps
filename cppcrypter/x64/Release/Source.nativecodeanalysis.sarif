@@ -1,0 +1,451 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.42.34436.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/source.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "ba5bc9122d3ad9564be93bb29291554a05e618e903a588f05e144e384d773f2e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/evp.h"
+          },
+          "hashes": {
+            "sha-256": "3cade16e27cb8dbfaee5aa37545583a1302afda999e213de1856e1c7bfa2fb25"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/macros.h"
+          },
+          "hashes": {
+            "sha-256": "0b40d025df0fc04a84e497412cd7eeb8a91c946ab6b8977e090899f3630da475"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/opensslconf.h"
+          },
+          "hashes": {
+            "sha-256": "8343f2eccc78f00a1cd05f7a994f341697213785370910afc1c7bf31cdf6fcb3"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/configuration.h"
+          },
+          "hashes": {
+            "sha-256": "316cd57067b9696d8f47d280a671f0e3e62b6991b069fefad49dc8f38882e92d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/opensslv.h"
+          },
+          "hashes": {
+            "sha-256": "7f51d1ba04c3e3a987c40a81978375635d694e34ba2a33adc7a1fb121341184b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/types.h"
+          },
+          "hashes": {
+            "sha-256": "5cbee63b015ebc87b8a112c87ac08e1a508961a059e32288ecb5e15f14e68688"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/e_os2.h"
+          },
+          "hashes": {
+            "sha-256": "e892d42d7c6844deb9e1fa05084205361b1227807cff1929a3dea2aac4fafce3"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/safestack.h"
+          },
+          "hashes": {
+            "sha-256": "1089ec732df2ababf7185ecf93660a5a8e2cf6d84eee3097afa514086cde7cb5"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/stack.h"
+          },
+          "hashes": {
+            "sha-256": "0a836a1e7e44c35041f7c69804eacc58c51ddb71f0fa66a9d3f196ddb168529b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/core.h"
+          },
+          "hashes": {
+            "sha-256": "90229aeb9ee28ac69683762ab0fd322cccfd1455a6479d2557755f49f21dd588"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/core_dispatch.h"
+          },
+          "hashes": {
+            "sha-256": "1da021aeb7ac6d8d7dc299eae2dafcbce392dacbff6bf43dc39f0511ed70c383"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/indicator.h"
+          },
+          "hashes": {
+            "sha-256": "5ae7c59bd2ca3a1e70df1f941a91bb3084a6c5eeace455f19317573d7366bcf4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/params.h"
+          },
+          "hashes": {
+            "sha-256": "44d80cb75bb2521293071baa381068fb61611a74748ad70c9021d67e42ed6797"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/bn.h"
+          },
+          "hashes": {
+            "sha-256": "c0678a57c6a6ecee9f945398be82ff19022dcb6ed9d861e1c61c860c0c4818d2"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/crypto.h"
+          },
+          "hashes": {
+            "sha-256": "a2256501b84f876c520838fb769991e1a06d97e7444bb3c5b6ca5555db660cf7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/cryptoerr.h"
+          },
+          "hashes": {
+            "sha-256": "c9753a49ffd9a6f3bee61a42169777cb7eed5e044aa2d8d5a6cf0f3830931253"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/symhacks.h"
+          },
+          "hashes": {
+            "sha-256": "7dd3ce0dcd5364ecdb87d3f2bb518138f341bf1eb1661949ccf8ae559dd4587d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/cryptoerr_legacy.h"
+          },
+          "hashes": {
+            "sha-256": "b9fc23b3e506ec253dbd6438ce0f7fa7a1cf3743dbcd69fcd405bb0a897fe695"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/bnerr.h"
+          },
+          "hashes": {
+            "sha-256": "89be098be688d842687e593e954e5a0f899b43f3880cb417b9649b0d5ff13d71"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/bio.h"
+          },
+          "hashes": {
+            "sha-256": "f301444ceff92439aa07390326c0494903793804aeab8125d62e604ca308f72f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/bioerr.h"
+          },
+          "hashes": {
+            "sha-256": "1dde9fb3456b0c5f602da193ba635716194467644597ba883c352e4b68fb60ed"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/evperr.h"
+          },
+          "hashes": {
+            "sha-256": "7cc288f7f82770910f4ba92c2a4bae25b81b38d033c5ea29a08e82773f11ac1e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/objects.h"
+          },
+          "hashes": {
+            "sha-256": "ecf7a04cf9e8ef969d0f9b360c49a93bc27be460566f05afaa8dc7816b0d70c1"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/obj_mac.h"
+          },
+          "hashes": {
+            "sha-256": "a08a9a7afb3ecaea545354f7f6331c5111973e6842b51367b2d483fcac4740e6"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/asn1.h"
+          },
+          "hashes": {
+            "sha-256": "fc7fcc4dbe7c92eb630ce766bb1aed46d9807f075a815025beb949ff0048c1c7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/asn1err.h"
+          },
+          "hashes": {
+            "sha-256": "ec87758ad6ae3556229a5199df292ef2ad58a8428afe31eb242708127c4487ce"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/objectserr.h"
+          },
+          "hashes": {
+            "sha-256": "e070dd6080310e2501aa3bd55498edb208c29b5c9a8f41a997181e641a85c9fd"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/pem.h"
+          },
+          "hashes": {
+            "sha-256": "db7b3444020166736ae15889d52edd6752f7589fe6163f678e20760ce9159230"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/x509.h"
+          },
+          "hashes": {
+            "sha-256": "0dbb8f3e00db586c27cbadd808c3e1fb3869a62b38af80d59396d8ba81b7957b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/buffer.h"
+          },
+          "hashes": {
+            "sha-256": "81f56e9728f6899573d5d10e3187cd9a688c2e21f6c222f893f6331d5a28b666"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/buffererr.h"
+          },
+          "hashes": {
+            "sha-256": "bdaa7a881c236f3245c91466de1caaa6a4a2609a8ea63ff85f70b940e6cb054c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/ec.h"
+          },
+          "hashes": {
+            "sha-256": "8a937b88aba0f3041d2eb978cc7cdc92ca95f5c20874ae8cdb2dfa4678a73b55"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/ecerr.h"
+          },
+          "hashes": {
+            "sha-256": "3c5f091f5dda28819795e6a1f35852467ca6ad9eb9fdbc01d7594f8aa841c4ba"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/rsa.h"
+          },
+          "hashes": {
+            "sha-256": "bbf06d82a92d0810284e959d7d330fdd3ab0ad6cbfbf8f3f2663d495e5c8dcce"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/rsaerr.h"
+          },
+          "hashes": {
+            "sha-256": "143e6964905e1d640e5347678523804e697b2c2376ec414dbbc9884b4c4eaea7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/dsa.h"
+          },
+          "hashes": {
+            "sha-256": "85fea38e3cceb626194bd05c98e5f24455c63406cf4bf34fe470ddd52f44f2e5"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/dh.h"
+          },
+          "hashes": {
+            "sha-256": "a7c52ef689201a66ac41da9ba7be92e64a28640bc2317dcefe6c4cb323c1ec61"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/dherr.h"
+          },
+          "hashes": {
+            "sha-256": "502039775427526b960eb049ea7fb864f402d4169f1db1eae4367f81aec34ef1"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/dsaerr.h"
+          },
+          "hashes": {
+            "sha-256": "d23f114508ed5efb618aca90582d0a82103c0ab4751d65ad73811c516cc5b0b0"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/sha.h"
+          },
+          "hashes": {
+            "sha-256": "ad20df57f1bf81a34f35a3684502475d6c50966f3d837b3bc3ff1d118503c0c8"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/x509err.h"
+          },
+          "hashes": {
+            "sha-256": "fd3fb119c9e93c7b9f4f00dad0f93317467de69bf38b300135420025cd689874"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/x509_vfy.h"
+          },
+          "hashes": {
+            "sha-256": "4b56c8ed4a49527df706915ec6891dec9ca26c40b5423aa1144ca47976f84331"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/lhash.h"
+          },
+          "hashes": {
+            "sha-256": "d38353268d77a96cdadb629b6d7e36a2e002b88d5de5e411e240a7c156afcd97"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/pkcs7.h"
+          },
+          "hashes": {
+            "sha-256": "7e7b9a8af81c2db5c1340c47381a44115d8ab374be13ad8eac9b2d586fb01ad4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/pkcs7err.h"
+          },
+          "hashes": {
+            "sha-256": "83c49e884c994024cdad06b28631a99a1203834acd171dddc1c4dcca1f10d970"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/http.h"
+          },
+          "hashes": {
+            "sha-256": "d61720cd2e7bfc87fb99cdc666918d0cf6b98adb71986d0bb196e9972dc7ed5d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/conf.h"
+          },
+          "hashes": {
+            "sha-256": "7624a2978f9a051aa7a769937c95bb2fd9e3a7bb0117d2499fb6cc5e1ac914df"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/conferr.h"
+          },
+          "hashes": {
+            "sha-256": "a66c5ada744a6b8b639530e14c22bcd616a32a8aedbd531ec9d739fabe7b644f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/conftypes.h"
+          },
+          "hashes": {
+            "sha-256": "d4805ea7b6c05f841df2ffb2751680d5b6bdc6569e85a8962c8a2d6a30c0ceb4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/pemerr.h"
+          },
+          "hashes": {
+            "sha-256": "953a786b2eb8942405d6f7698d910e93b1496b744c935b2a0d5ddcff59181c71"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/rand.h"
+          },
+          "hashes": {
+            "sha-256": "e6f1e0d9c0d08b6ce35c91a4d1bf5c884a516848f0a23690e0585ce5cb4e12ac"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///g:/disco/unv/udo/seguridad de sistemas computarisados/encriptador/cppcrypteronhttps/cppcrypter/include/openssl/randerr.h"
+          },
+          "hashes": {
+            "sha-256": "43217b9e13b034a6f8888005f5639735b2ee341172f20c4d2cbc795d5071feac"
+          }
+        }
+      ]
+    }
+  ]
+}
